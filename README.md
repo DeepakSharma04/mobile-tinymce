@@ -1,4 +1,4 @@
-# Mobile TinyMCE Host
+# Mobile TinyMCE 
 
 This repository hosts the TinyMCE editor files for use in mobile applications (iOS and Android) via a WebView. It enables loading TinyMCE through a CDN-style URL, such as GitHub Pages, for projects where local bundling is complex.
 
